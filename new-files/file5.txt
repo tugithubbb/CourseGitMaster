@@ -1,3 +1,0 @@
-It is new file in the new-files folder
-
-File5.txt was jutt changed. This line was changed in BR-3
